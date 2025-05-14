@@ -17,3 +17,13 @@ Python libraries:
 - streamlit
 - ollama
 
+ai-crypto-assistant/
+├── app.py               
+├── requirements.txt     
+├── README.md            
+├── screenshots/        
+│   ├── ui.png
+│   ├── json_response.png
+│   └── terminal.png
+
+
