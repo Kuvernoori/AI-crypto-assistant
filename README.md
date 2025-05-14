@@ -12,11 +12,13 @@ The goal of this project is to build an AI assistant that provides users with de
 
 - CoinGecko API – Public cryptocurrency data
 
-Python libraries:
+🛠 Python libraries:
 - requests
 - streamlit
 - ollama
 
+📁 Project Structure
+```
 ai-crypto-assistant/
 ├── app.py               
 ├── requirements.txt     
@@ -25,5 +27,5 @@ ai-crypto-assistant/
 │   ├── ui.png
 │   ├── json_response.png
 │   └── terminal.png
-
+```
 
