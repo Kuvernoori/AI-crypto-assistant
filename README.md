@@ -37,16 +37,26 @@ Make sure you have Python 3.10+:
 python --version
 ```
 3. Install Ollama and run Llama3
-```ollama run llama3```
+```
+ollama run llama3
+```
 This will download and start the Llama3 model locally.
 
-4. Clone the project or create a working directory
-```git clone https://github.com/yourusername/ai-crypto-assistant.git```
-```cd ai-crypto-assistant```
-5. Install dependencies
-```pip install -r requirements.txt```
-6. Run the application
-```python -m streamlit run app.py```
+5. Clone the project or create a working directory
+```
+git clone https://github.com/yourusername/ai-crypto-assistant.git
+
+cd ai-crypto-assistant
+```
+7. Install dependencies
+```
+pip install -r requirements.txt
+```
+9. Run the application
+```
+python -m streamlit run app.py
+
+```
 This will launch a web interface at http://localhost:8501.
 
 
